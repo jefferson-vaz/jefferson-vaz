@@ -30,3 +30,13 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="CSS3" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
+____________________________________________________________________________________________________________
+
+<div>
+  <a href="jlvaz2014@gmail.com" target="_blank"><IMG SRC="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="@jlvaz" target="_blank"><IMG SRC="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="+55 64 9 9284-9333" target="_blank"><IMG SRC="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"_blank"></a>
+  <a href="www.linkedin.com/in/jefferson-vaz-7b613b32" target="_blank"><IMG SRC="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a>
+  <a href="@jeffvaz1" target="_blank"><IMG SRC="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"_blank"></a>
+  <a href="https://www.instagram.com/jeffersonlimavaz" target="_blank"><IMG SRC="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
