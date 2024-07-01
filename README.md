@@ -1,11 +1,7 @@
 ### Olá, sou Jefferson Lima Vaz 👋
 
-- 🔭 Hoje trabalho como Analista de Planejamento e Controle no Grupo São Martinho.
-- 🌱 Atualmente estou apredendo Python, HTML5, PHP, CSS e cursando pós em Engenharia de Sistemas Agrícolas.
-- 👯 Estou procurando colaborar com Dashboards em Power BI e Excel VBA conectados as mais diversas fontes de dados.
-- 🤔 Estou procurando ajuda com Dashboards em Python.
-- 💬 Pergunte-me sobre VBA, PL/SQL e Power BI.
-- 📫 Meu e-mail: jlvaz2014@gmail.com.
+- 🔭 Trabalho atualmente como Analista de Planejamento e Controle no Grupo São Martinho.
+- 📫 Meu e-mail pessoal: jlvaz2014@gmail.com.
 
 <div>
   <a href="https://github.com/jefferson-vaz">
