@@ -1,6 +1,6 @@
 ### Olá, sou Jefferson Lima Vaz 👋
 
-- 🔭 Trabalho atualmente como Especialisata de Planejamento Agrícola e Consultor de Controles e Sistemas de Controle.
+- 🔭 Trabalho atualmente como Especialista de Planejamento Agrícola, Consultor de Controles e Sistemas de Controle.
 - 📫 Meu e-mail pessoal: jlvaz2014@gmail.com.
 
 <div>
